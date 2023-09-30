@@ -1,0 +1,17 @@
+/* src/components/Footer.css */
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+  position: fixed;
+  font-family: "Raleway", sans-serif;
+  font-weight: 500;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
